@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\chuyennhietdo\obj\Debug\chuyennhietdo.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\chuyennhietdo\obj\Debug\chuyennhietdo.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\chuyennhietdo\obj\Debug\chuyennhietdo.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\chuyennhietdo\bin\Debug\chuyennhietdo.exe.config
+C:\Users\tuan\Desktop\chuyennhietdo\bin\Debug\chuyennhietdo.exe
+C:\Users\tuan\Desktop\chuyennhietdo\bin\Debug\chuyennhietdo.pdb
+C:\Users\tuan\Desktop\chuyennhietdo\obj\Debug\chuyennhietdo.exe
+C:\Users\tuan\Desktop\chuyennhietdo\obj\Debug\chuyennhietdo.pdb
